@@ -234,20 +234,18 @@ public class Ejercicio1 {
 		sc.close();
 	}
 
-	private static void mostrarContenido(File f8, String espacioB) {
-		File[] listado = f8.listFiles();
+	private static void mostrarContenido(File carpeta, String espacioB) {
+		File[] listado = carpeta.listFiles();
 		if (listado != null) {
 			for (File f : listado) {
 				if (f.isFile()) {
-					System.out.println(espacioB + "[A]" + f.getName());
+					System.out.println(espacioB + "[A] " + f.getName());
 				} else {
-					System.out.println(espacioB + "[C]" + f.getName());
-
+					System.out.println(espacioB + "[C] " + f.getName());
+					mostrarContenido(f, espacioB + " |_ ");
 				}
 			}
-		} else {
-
 		}
-
 	}
+
 }
