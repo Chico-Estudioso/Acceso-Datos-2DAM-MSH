@@ -126,6 +126,7 @@ public class Ejercicio1 {
 		}
 	}
 
+	// Esto vale como apuntes para los ejercicios de usar Split con ;
 	public static void ejercicio5(Scanner scanner) {
 		System.out.print("Introduce el nombre del fichero: ");
 		String nombreFichero = scanner.nextLine();
@@ -142,7 +143,7 @@ public class Ejercicio1 {
 			}
 			System.out.println("Número total de personas: " + contador);
 		} catch (Exception e) {
-			// TODO: handle exception
+			System.out.println("Error al leer el fichero: " + e.getMessage());
 		}
 	}
 }
