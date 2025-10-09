@@ -4,5 +4,5 @@
 /**
  * 
  */
-module AccesoDatos_T1 {
+module AccesoDATOS {
 }
