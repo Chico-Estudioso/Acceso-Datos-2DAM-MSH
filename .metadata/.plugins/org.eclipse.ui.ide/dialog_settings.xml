@@ -34,6 +34,7 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="X:\2DAM\Acceso-Datos-2DAM-MSH\AccesoDATOS"/>
 			<item value="/home/diurno/Eclipse-AD/Acceso-Datos-2DAM-MSH/AccesoDatos_T1/src"/>
 			<item value="/home/diurno/Eclipse-AD/Acceso-Datos-2DAM-MSH/AccesoDatos_T1"/>
 			<item value="/home/diurno/Eclipse-AD"/>
@@ -45,5 +46,11 @@
 			<item key="DIALOG_HEIGHT" value="678"/>
 			<item key="DIALOG_FONT_NAME" value="1|Ubuntu|11.0|0|GTK|1|"/>
 		</section>
+	</section>
+	<section name="CleanDialogSettings">
+		<item key="TOGGLE_SELECTED" value="false"/>
+		<item key="DIALOG_WIDTH" value="500"/>
+		<item key="DIALOG_HEIGHT" value="389"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
 	</section>
 </section>

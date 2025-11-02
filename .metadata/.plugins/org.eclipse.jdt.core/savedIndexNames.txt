@@ -1,5 +1,4 @@
-INDEX VERSION 1.134+/home/diurno/Eclipse-AD/Acceso-Datos-2DAM-MSH/.metadata/.plugins/org.eclipse.jdt.core
-2958864389.index
-1329107133.index
-2236386052.index
+INDEX VERSION 1.131+X:\2DAM\Acceso-Datos-2DAM-MSH\.metadata\.plugins\org.eclipse.jdt.core
 1865797976.index
+3600340992.index
+3413270776.index
